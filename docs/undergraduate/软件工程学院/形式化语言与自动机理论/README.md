@@ -11,3 +11,7 @@ course_code: SE2424
 
 - [作业](https://drive.vanillaaaa.org/SharedCourses/软件工程学院/形式语言与自动机理论/2023-2024学年下学期/作业)
 - [课件](https://drive.vanillaaaa.org/SharedCourses/软件工程学院/形式语言与自动机理论/2023-2024学年下学期/课件)
+
+## 2025-2026学年下学期
+
+-[期末试题]()
